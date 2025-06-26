@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Venkat — DevOps Engineer 🚀
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=venkateshdiyyala123)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 
 ---
