@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name] — DevOps Engineer 🚀
+# 👋 Hi there, I'm Venkat — DevOps Engineer 🚀
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
@@ -24,12 +24,12 @@
 
 ## 🛠️ What I Do
 
-- 🌐 Cloud Infrastructure (AWS, GCP, Azure)
-- ⚙️ CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)
+- 🌐 Cloud Infrastructure (AWS,Azure)
+- ⚙️ CI/CD Pipelines (Jenkins)
 - 🐳 Containerization & Orchestration (Docker, Kubernetes)
-- 📦 Infrastructure as Code (Terraform, CloudFormation)
-- 🔐 Secrets Management & Security (Vault, SOPS, IAM)
-- 📊 Monitoring & Logging (Prometheus, Grafana, ELK Stack)
+- 📦 Infrastructure as Code (Terraform)
+- 🔐 Secrets Management & Security (Vault,IAM)
+- 📊 Monitoring & Logging (Grafana, ELK Stack)
 
 ---
 
@@ -50,6 +50,6 @@ See my pinned repositories or visit the [Projects](https://github.com/youruserna
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-d00/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 [![Email](https://img.shi)]()
