@@ -36,6 +36,7 @@
 ## 📝 Certifications#
 
 AWS Certified Solutions Architect - Associate
+
 CKA - Certified Kubernetes Administrator 
 
 
