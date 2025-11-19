@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Venkat — DevOps Engineer 🚀
+# 👋 Hi there, I'm Venkat — DevOps/cloud/SRE Engineer 🚀
 
 ---
 
@@ -35,9 +35,8 @@
 
 ## 📝 Certifications#
 
-AWS Certified Solutions Architect - Associate
-
-CKA - Certified Kubernetes Administrator 
+- AWS Certified Solutions Architect - Associate
+- CKA - Certified Kubernetes Administrator 
 
 
 
