@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Venkatesh — DevOps Engineer 🚀
+# 👋 Hi there, I'm Venkat — DevOps Engineer 🚀
 
 ---
 
